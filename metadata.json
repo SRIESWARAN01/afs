@@ -1,0 +1,8 @@
+{
+  "name": "Arasupandian Farm Service01",
+  "description": "A modern farm-support platform for purchasing agricultural products, getting crop guidance, and tracking orders.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
